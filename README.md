@@ -20,5 +20,6 @@ This repository contains a concise Customer Churn Analysis implemented in Python
 ## How to open and run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/python-customer-churn-analysis.git
+   git clone https://github.com/ANIKK8/python-customer-churn-analysis.git
+
    cd python-customer-churn-analysis
