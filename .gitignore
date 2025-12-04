@@ -1,0 +1,17 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Common Python junk (optional but good)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
